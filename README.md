@@ -1,7 +1,7 @@
 
 # Nexopixel 1x4 Custom Macro Pad
 
-![](https://img.shields.io/github/languages/top/HerndonE/https://github.com/HerndonE/Nexopixel-1x4-Custom-Macro-Pad)
+![GitHub top language](https://img.shields.io/github/languages/top/HerndonE/Nexopixel-1x4-Custom-Macro-Pad)
 
 ### Introduction
 Using the Adafruit NeoKey 1x4 QT I2C Breakout, I customized specific keycodes for media capture, and game play.
@@ -11,7 +11,9 @@ Each neokey has a set keycode to perform a desired function.
 
 This is a basic illustration of the Nexopixel 1x4 and its corresponding neokey values.
 
-![](https://github.com/HerndonE/Nexopixel-1x4-Custom-Macro-Pad/tree/main/Images/keycodeDrawing.png)
+
+![](https://github.com/HerndonE/Nexopixel-1x4-Custom-Macro-Pad/blob/main/Images/keycodeDrawing.png)
+
 
 1. ```Neokey 0``` has a keycode set for NVIDIAs Performance Overlay.
 2. ```Neokey 1``` has a keycode set for NVIDIAs Shadowplay.
